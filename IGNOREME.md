@@ -1,4 +1,4 @@
-# Shenzhia's In-depth Installation Tutorial
+# Shenzhia's In-depth Installation Tutorial²
 
 
 ## About
@@ -18,21 +18,21 @@ Download the version matching your TETR.IO Desktop build using the links below:
 Install it by replacing the stock TETR.IO `app.asar` file with the downloaded one. You can find it inside `C:\Users\{user}\AppData\Local\Programs\tetrio-desktop\resources`.
 
 
-## Get the sound pack
+## Get the music pack
 
-There are two ways to obtain the sound pack. Option 1 is simpler but does not allow modification.
+There are two ways to obtain the music pack. Option 1 is simpler but does not allow modification.
 
 
 ### Option 1 | .TPSE file
 
 A `.tpse` file allows quick importing of TETR.IO PLUS settings and resources.
 
-To obtain it, go to [Releases](https://github.com/bluesnipersguy/bluesspinrotstarterpack/releases) and download the `.tpse` file from the latest release.
+To obtain it, go to [Releases](https://github.com/bluesnipersguy/bluesspinrotmusicpack/releases) and download the `.tpse` file from the latest release.
 
 
 ### Option 2 | Repository Download
 
-Download the repository to access the `sfx` directory directly. You can then delete/add/modify any files you want before applying them.
+Download the repository to access the `music` directory directly. You can then delete/add/modify any files you want before applying them.
 
 To download the repository, head to the main repository page and click the `Code` button, then select `Download ZIP`. The sound files are located in the `sfx` directory inside the archive.
 
@@ -41,9 +41,9 @@ To download the repository, head to the main repository page and click the `Code
 > [!WARNING]
 > Applying the pack overwrites your previous configuration. Make sure you have the files to restore it if you need to.
 
-To apply the sound pack, launch TETR.IO with TETR.IO PLUS installed. If the TETR.IO PLUS window does not open, press `CTRL + T` to open it.
+To apply the music pack, launch TETR.IO with TETR.IO PLUS installed. If the TETR.IO PLUS window does not open, press `CTRL + T` to open it.
 
-The import process depends on how you obtained the sound pack:
+The import process depends on how you obtained the music pack:
 
 ### Import from .TPSE
 
