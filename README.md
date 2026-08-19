@@ -1,15 +1,11 @@
-![SFX Coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbluesnipersguy%2Fbluesspinrotstarterpack%2Fgh-pages%2Fcoverage.json)
-
-
-
-# blue's spinrot starter pack
-## brought to you by bluesnipersguy, gametildead and other spinrotters
+# blue's spinrot music pack
+## brought to you by bluesnipersguy
 <img width="999" height="568" alt="NOWv4" src="https://github.com/user-attachments/assets/9920d3be-de3f-4de0-a6ed-dca3c5b3df0c" />
 
 
-## have you ever thought TETR.IO's sound design was too good?
-## have you wanted your ears to bleed with absolute comedy?
-## have you ever wanted to absolutely ruin TETR.IO's sound design?
+## have you ever thought TETR.IO's music was not custom enough?
+## have you ever wanted to listen to some random guy's playlist and music tastes?
+## have you ever wanted to? (yes, that's intentional)
 <img width="999" height="568" alt="Untitled37_20250830161107" src="https://github.com/user-attachments/assets/f0a1e09d-e99b-4814-9f27-5edba500a264" />
 
 
@@ -34,6 +30,3 @@
 credit to koi for making like half of the images
 
 ---
-
-> [!IMPORTANT]
-> if you need more help, shenzhia has been kind enough to donate a tutorial for you to read [here](/IGNOREME.md)
